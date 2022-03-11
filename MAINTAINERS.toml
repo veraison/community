@@ -1,0 +1,39 @@
+# Veraison Org maintainers file
+#
+# This file lists the maintainers of the Veraison project.
+#
+[maintainers]
+
+# Org maintainers of the project.
+
+    [maintainers.core]
+    people = [
+      "simonfrostarm", 
+      "thomasfossati",
+      "yogeshdeshpande",   
+      "sergeitrofimov",
+    ]
+
+[people]
+
+# A reference list of all people associated with the project.
+
+    [people.simonfrost]
+    Name = "Simon Frost"
+    Email = "simon.frost@arm.com"
+    GitHub = "simonfrost-arm"
+
+    [people.sergeitrofimov]
+    Name = "Sergei Trofimov"
+    Email = "sergei.trofimov@arm.com"
+    GitHub = "setrofim"
+
+    [people.thomasfossati]
+    Name = "Thomas Fossati"
+    Email = "thomas.fossati@arm.com"
+    GitHub = "thomas-fossati"
+
+    [people.yogeshdeshpande]
+    Name = "Yogesh Deshpande"
+    Email = "yogesh.deshpande@arm.com"
+    GitHub = "yogeshbdeshpande"
