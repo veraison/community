@@ -53,7 +53,7 @@ Changes to org maintainers use the following:
   * Once the maintainer onboarding has been completed a pull request is made on the repo adding the new maintainer to the [MAINTAINERS](MAINTAINERS.toml) file.
 * When an org maintainer steps down, they become an emeritus maintainer
 
-### Sub-project Maintainers
+### Sub-Project Maintainers
 
 Sub-project maintainers are responsible for activities surrounding the development and release of content (eg. code, specifications, documentation) or the tasks needed to execute their sub-project (e.g., community management) within the designated repository, or repositories associated with the sub-project (e.g., community management).
 Technical decisions for code resides with the sub-project maintainers unless there is a decision related to cross maintainer groups that cannot be resolved by those groups.
@@ -72,6 +72,16 @@ Changes to maintainers use the following:
 * Potential new maintainers should be ongoing active participants in the project
 * New maintainers can be added to a sub-project by a super-majority vote of the existing sub-project maintainers
 * When a sub-project has no maintainers the Veraison org maintainers become responsible for it and may archive the sub-project or find new maintainers
+
+## Sub-Project Release Managers
+
+Sub-project release managers are granted a set of permissions which enable them to perform a set of release operations for the project or sub project.
+The release managers MUST coordinate with the project or sub project MAINTAINERS as per the COMMUNITY and GOVERNANCE guidelines to provide a release as per the projects release criteria. The following MAY be the set of operations that the release managers MAY perform.
+
+1. Publish artifacts which include binaries, libraries, containers, release notes, or other artifacts as per project requirements.
+2. Configure CI/CD workflows and update repositories so as to facilitate the release of the project which ‘MAY’ produce the artifacts mentioned above.
+
+The onboarding of a new release manager or change of an existing manager for the project SHOULD be in accordance with the governance model similar to that of an owner or a sub-project owner, depending on the scope of the release activities being performed.
 
 ### Onboarding a New Maintainer
 
