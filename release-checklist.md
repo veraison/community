@@ -13,4 +13,4 @@ This document describes the checklist to publish a release via GitHub workflow.
 5. After double checking the digest of the tag, push the tag directly to the repository by `git push origin $version`.
 6. Wait for the completion of the GitHub action `release-github`.
 7. Check the new draft release, revise the release description, and publish the release.
-8. Announce the release in the community.
+8. Announce the release in the community via the [go-cose-releases stream on Zulip](https://veraison.zulipchat.com/#streams/318535/go-cose-releases)
