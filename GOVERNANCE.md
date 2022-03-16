@@ -55,7 +55,7 @@ Changes to org maintainers use the following:
 
 ### Sub-Project Maintainers
 
-Sub-project maintainers are responsible for activities surrounding the development and release of content (eg. code, specifications, documentation) or the tasks needed to execute their sub-project (e.g., community management) within the designated repository, or repositories associated with the sub-project (e.g., community management).
+Sub-project maintainers are responsible for activities surrounding the development and release of content (e.g., code, specifications, documentation) or the tasks needed to execute their sub-project (e.g., community management) within the designated repository, or repositories associated with the sub-project (e.g., community management).
 Technical decisions for code resides with the sub-project maintainers unless there is a decision related to cross maintainer groups that cannot be resolved by those groups.
 Those cases can be escalated to the org maintainers.
 
@@ -76,7 +76,7 @@ Changes to maintainers use the following:
 ## Sub-Project Release Managers
 
 Sub-project release managers are granted a set of permissions which enable them to perform a set of release operations for the project or sub project.
-The release managers MUST coordinate with the project or sub project MAINTAINERS as per the COMMUNITY and GOVERNANCE guidelines to provide a release as per the projects release criteria. The following MAY be the set of operations that the release managers MAY perform.
+The release managers MUST coordinate with the project or sub project MAINTAINERS as per the COMMUNITY and GOVERNANCE guidelines to provide a release as per the projects release criteria. Operations that the release managers are likely to perform include:
 
 1. Publish artifacts which include binaries, libraries, containers, release notes, or other artifacts as per project requirements.
 2. Configure CI/CD workflows and update repositories so as to facilitate the release of the project which ‘MAY’ produce the artifacts mentioned above.
@@ -109,7 +109,7 @@ But the following items must be called to vote:
 * Changing the governance rules (this document) (super majority)
 * Licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
 * Adding, archiving, or removing sub-projects (simple majority)
-* Utilizing Veraison/CNCF money for anything CNCF deems "not cheap and easy" (simple majority)
+* Utilizing Veraison/CCC money for anything CCC deems "not cheap and easy" (simple majority)
 
 New sub-projects should be created (or added) with a well defined mission and goals, and significant changes should be voted on by both the sub-project maintainers and the org maintainers.
 
@@ -121,11 +121,11 @@ Meetings should have a chair, this is a rotating role not restricted to maintain
 
 ## Code of Conduct
 
-This Veraison project has adopted the [CNCF Code of Conduct][cncf-coc].
+[Veraison Contributor Covenant Code of Conduct](https://github.com/veraison/veraison/blob/main/CODE_OF_CONDUCT.md)
 
 ## Attributions
 
-* This governance model was created using the [Notary Project](https://github.com/notaryproject/notary/blob/master/GOVERNANCE.md) governance documents.
+* This governance model was created using the [Notary Project](https://github.com/notaryproject/notary/blob/master/GOVERNANCE.md) governance documents as a template.
 
 ## DCO and Licenses
 
