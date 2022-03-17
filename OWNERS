@@ -1,0 +1,68 @@
+# Veraison maintainers file
+#
+# This file lists the maintainers of the Veraison Org and Sub project.
+# See GOVERNANCE.md for org and sub-project governance
+[maintainers-org]
+
+# Org maintainers of the project.
+
+    [maintainers.org]
+    people = [
+      "simonfrostarm", 
+      "thomasfossati",
+      "yogeshdeshpande",   
+      "sergeitrofimov",
+      "stevelasker",
+      "henkbirkholz"
+    ]
+
+# maintainers of the go-cose sub-project
+    [maintainers.go-cose]
+    people = [
+      "simonfrostarm", 
+      "thomasfossati",
+      "yogeshdeshpande",   
+      "sergeitrofimov",
+      "stevelasker",
+      "henkbirkholz",
+      "shizhMSFT"
+    ]
+
+[people]
+
+# A reference list of all people associated with the project.
+
+    [people.simonfrost]
+    Name = "Simon Frost"
+    Email = "simon.frost@arm.com"
+    GitHub = "simonfrost-arm"
+
+    [people.sergeitrofimov]
+    Name = "Sergei Trofimov"
+    Email = "sergei.trofimov@arm.com"
+    GitHub = "setrofim"
+
+    [people.thomasfossati]
+    Name = "Thomas Fossati"
+    Email = "thomas.fossati@arm.com"
+    GitHub = "thomas-fossati"
+
+    [people.yogeshdeshpande]
+    Name = "Yogesh Deshpande"
+    Email = "yogesh.deshpande@arm.com"
+    GitHub = "yogeshbdeshpande"
+
+    [people.henkbirkholz]
+    Name = "Henk Birkholz"
+    Email = "henk.birkholz@sit.fraunhofer.de"
+    GitHub = "henkbirkholz"
+
+    [people.stevelasker]
+    Name = "Steve Lasker"
+    Email = "steve.lasker@microsoft.com"
+    GitHub = "stevelasker"
+
+    [people.shizhMSFT]
+    Name = "Shiwei Zhang"
+    Email = "Shiwei.Zhang@microsoft.com"
+    GitHub = "shizhMSFT"
