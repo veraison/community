@@ -66,3 +66,13 @@
     Name = "Shiwei Zhang"
     Email = "Shiwei.Zhang@microsoft.com"
     GitHub = "shizhMSFT"
+
+    [people.SvetlozarKalchev]
+    Name = "Svetlozar Kalchev"
+    Email = "svetlozar@tpm.dev"
+    GitHub = "SvetlozarKalchev"
+
+    [people.tomoveu]
+    Name = "Dimitar Tomov"
+    Email = "dimi@tpm.dev"
+    GitHub = "tomoveu"
