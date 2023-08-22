@@ -25,7 +25,8 @@
       "sergeitrofimov",
       "stevelasker",
       "henkbirkholz",
-      "shizhMSFT"
+      "shizhMSFT",
+      "OR13"
     ]
 
 [people]
@@ -66,3 +67,8 @@
     Name = "Shiwei Zhang"
     Email = "Shiwei.Zhang@microsoft.com"
     GitHub = "shizhMSFT"
+
+    [people.OR13]
+    Name = "Orie Steele"
+    Email = "orie@transmute.industries"
+    GitHub = "OR13"
