@@ -1,0 +1,517 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0100
+TZOFFSETTO:-0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:-0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DESCRIPTION:This is the Veraison community public meeting. 
+	\n\n \n\nJoin Zoom Meeting \nhttps://armltd.zoom.us/j/9302486
+	0563?pwd=dVpVcFRtSVFmV29HV3dHWENrZk5WQT09 \n\nMeeting ID: 930 2486 0563 \n
+	Passcode: 535948 \nOne tap mobile \n+442034815240\,\,93024860563#\,\,\,\,*
+	535948# United Kingdom \n\nDial by your location \n        +44 203 481 524
+	0 United Kingdom \n        +1 646 518 9805 US (New York) \n        +1 346 
+	248 7799 US (Houston) \n        +1 408 638 0968 US (San Jose) \n        +9
+	1 224 879 8012 India \n        +91 406 480 2722 India \n        +91 806 48
+	0 2722 India \n        +91 116 480 2722 India \n        +852 5803 3730 Hon
+	g Kong SAR \n        +46 8 4468 2488 Sweden \n        +47 2396 0588 Norway
+	 \n        +972 3 978 6688 Israel \n        +353 1 536 9320 Ireland \n    
+	    +36 1 408 8456 Hungary \n        +49 30 5679 5800 Germany \n        +3
+	3 1 7037 2246 France \n        +358 3 4109 2129 Finland \n        +45 32 7
+	0 12 06 Denmark \n        +1 438 809 7799 Canada \n        +82 2 6022 2322
+	 Korea\, Republic of \n        +65 3158 7288 Singapore \n        +27 87 55
+	0 3946 South Africa \n        +32 1579 5132 Belgium \n        +48 22 307 3
+	488 Poland \n        +386 1600 3102 Slovenia \n        +60 3 3099 2229 Mal
+	aysia \n        +886 (2) 7741 7473 Taiwan \nMeeting ID: 930 2486 0563 \nPa
+	sscode: 535948 \nFind your local number: https://armltd.zoom.us/u/ab2nEiLH
+	xu \n\nJoin by SIP \n93024860563@zoomcrc.com <mailto:93024860563@zoomcrc.c
+	om>  \n\nJoin by H.323 \n162.255.37.11 (US West) \n162.255.36.11 (US East)
+	 \n115.114.131.7 (India Mumbai) \n115.114.115.7 (India Hyderabad) \n213.19
+	.144.110 (Amsterdam Netherlands) \n213.244.140.110 (Germany) \n103.122.166
+	.55 (Australia) \n209.9.211.110 (Hong Kong SAR) \n149.137.40.110 (Singapor
+	e) \n64.211.144.160 (Brazil) \n69.174.57.160 (Canada) \n207.226.132.110 (J
+	apan) \nMeeting ID: 930 2486 0563 \nPasscode: 535948 \n\n \n\n
+DTEND;TZID="GMT Standard Time":20210119T170000
+DTSTAMP:20210113T164914Z
+DTSTART;TZID="GMT Standard Time":20210119T160000
+LAST-MODIFIED:20250429T161827Z
+LOCATION:https://armltd.zoom.us/j/93024860563?pwd=dVpVcFRtSVFmV29HV3dHWENrZ
+	k5WQT09
+ORGANIZER;CN="Simon Frost":mailto:Simon.Frost@arm.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-gb:Veraison Public Meeting
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1
+	 1 1 1 1\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4
+	 3 2 4\;}\n@font-face\n	{font-family:"\\@DengXian"\;\n	panose-1:2 1 6 0 3 
+	1 1 1 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.Ms
+	oNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans
+	-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:b
+	lue\;\n	text-decoration:underline\;}\nspan.EmailStyle19\n	{mso-style-type:
+	personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font
+	-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.
+	0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n-->
+	</style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1
+	026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=
+	"edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif
+	]--></head><body link=blue vlink=purple style='word-wrap:break-word'><div 
+	class=WordSection1><p style='margin:0cm'><span lang=EN-GB>After much stari
+	ng at calendar slots\, this looks suitable for a Veraison public meeting.&
+	nbsp\; If it&#8217\;s not going to work out\, please let me know asap as I
+	&#8217\;ll post this info in the Zulip &amp\; Community repo later.<o:p></
+	o:p></span></p><p style='margin:0cm'><span lang=EN-GB>Simon<o:p></o:p></sp
+	an></p><p style='margin:0cm'><o:p>&nbsp\;</o:p></p><p style='margin:0cm'><
+	o:p>&nbsp\;</o:p></p><p style='margin:0cm'>Join Zoom Meeting <br><a href="
+	https://armltd.zoom.us/j/93024860563?pwd=dVpVcFRtSVFmV29HV3dHWENrZk5WQT09"
+	>https://armltd.zoom.us/j/93024860563?pwd=dVpVcFRtSVFmV29HV3dHWENrZk5WQT09
+	</a> <o:p></o:p></p><p style='margin:0cm'>Meeting ID: 930 2486 0563 <br>Pa
+	sscode: 535948 <br>One tap mobile <br>+442034815240\,\,93024860563#\,\,\,\
+	,*535948# United Kingdom <o:p></o:p></p><p style='margin:0cm'>Dial by your
+	 location <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +44 203 48
+	1 5240 United Kingdom <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
+	; +1 646 518 9805 US (New York) <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\;&nbsp\; +1 346 248 7799 US (Houston) <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\; +1 408 638 0968 US (San Jose) <br>&nbsp\;&nbsp\;&nbsp
+	\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +91 224 879 8012 India <br>&nbsp\;&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +91 406 480 2722 India <br>&nbsp\;&nbsp\
+	;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +91 806 480 2722 India <br>&nbsp\;&nb
+	sp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +91 116 480 2722 India <br>&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +852 5803 3730 Hong Kong SAR <b
+	r>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +46 8 4468 2488 Sweden
+	 <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +47 2396 0588 Norwa
+	y <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +972 3 978 6688 Is
+	rael <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +353 1 536 9320
+	 Ireland <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +36 1 408 8
+	456 Hungary <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +49 30 5
+	679 5800 Germany <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +33
+	 1 7037 2246 France <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; 
+	+358 3 4109 2129 Finland <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\; +45 32 70 12 06 Denmark <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
+	;&nbsp\; +1 438 809 7799 Canada <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\;&nbsp\; +82 2 6022 2322 Korea\, Republic of <br>&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;&nbsp\; +65 3158 7288 Singapore <br>&nbsp\;&nbsp\;&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +27 87 550 3946 South Africa <br>&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +32 1579 5132 Belgium <br>&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +48 22 307 3488 Poland <br>&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +386 1600 3102 Slovenia <br>
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +60 3 3099 2229 Malaysia
+	 <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +886 (2) 7741 7473 
+	Taiwan <br>Meeting ID: 930 2486 0563 <br>Passcode: 535948 <br>Find your lo
+	cal number: <a href="https://armltd.zoom.us/u/ab2nEiLHxu">https://armltd.z
+	oom.us/u/ab2nEiLHxu</a> <o:p></o:p></p><p style='margin:0cm'>Join by SIP <
+	br><a href="mailto:93024860563@zoomcrc.com">93024860563@zoomcrc.com</a> <o
+	:p></o:p></p><p style='margin:0cm'>Join by H.323 <br>162.255.37.11 (US Wes
+	t) <br>162.255.36.11 (US East) <br>115.114.131.7 (India Mumbai) <br>115.11
+	4.115.7 (India Hyderabad) <br>213.19.144.110 (Amsterdam Netherlands) <br>2
+	13.244.140.110 (Germany) <br>103.122.166.55 (Australia) <br>209.9.211.110 
+	(Hong Kong SAR) <br>149.137.40.110 (Singapore) <br>64.211.144.160 (Brazil)
+	 <br>69.174.57.160 (Canada) <br>207.226.132.110 (Japan) <br>Meeting ID: 93
+	0 2486 0563 <br>Passcode: 535948 <o:p></o:p></p><p class=MsoNormal><o:p>&n
+	bsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20210113T164914Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20211005T160000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20211005T150000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20211005T150000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20211228T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20211228T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20211228T160000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DESCRIPTION:This is the Veraison community public meeting. 
+	\n\n \n\nJoin Zoom Meeting \nhttps://armltd.zoom.us/j/9302486
+	0563?pwd=dVpVcFRtSVFmV29HV3dHWENrZk5WQT09 \n\nMeeting ID: 930 2486 0563 \n
+	Passcode: 535948 \nOne tap mobile \n+442034815240\,\,93024860563#\,\,\,\,*
+	535948# United Kingdom \n\nDial by your location \n        +44 203 481 524
+	0 United Kingdom \n        +1 646 518 9805 US (New York) \n        +1 346 
+	248 7799 US (Houston) \n        +1 408 638 0968 US (San Jose) \n        +9
+	1 224 879 8012 India \n        +91 406 480 2722 India \n        +91 806 48
+	0 2722 India \n        +91 116 480 2722 India \n        +852 5803 3730 Hon
+	g Kong SAR \n        +46 8 4468 2488 Sweden \n        +47 2396 0588 Norway
+	 \n        +972 3 978 6688 Israel \n        +353 1 536 9320 Ireland \n    
+	    +36 1 408 8456 Hungary \n        +49 30 5679 5800 Germany \n        +3
+	3 1 7037 2246 France \n        +358 3 4109 2129 Finland \n        +45 32 7
+	0 12 06 Denmark \n        +1 438 809 7799 Canada \n        +82 2 6022 2322
+	 Korea\, Republic of \n        +65 3158 7288 Singapore \n        +27 87 55
+	0 3946 South Africa \n        +32 1579 5132 Belgium \n        +48 22 307 3
+	488 Poland \n        +386 1600 3102 Slovenia \n        +60 3 3099 2229 Mal
+	aysia \n        +886 (2) 7741 7473 Taiwan \nMeeting ID: 930 2486 0563 \nPa
+	sscode: 535948 \nFind your local number: https://armltd.zoom.us/u/ab2nEiLH
+	xu \n\nJoin by SIP \n93024860563@zoomcrc.com <mailto:93024860563@zoomcrc.c
+	om>  \n\nJoin by H.323 \n162.255.37.11 (US West) \n162.255.36.11 (US East)
+	 \n115.114.131.7 (India Mumbai) \n115.114.115.7 (India Hyderabad) \n213.19
+	.144.110 (Amsterdam Netherlands) \n213.244.140.110 (Germany) \n103.122.166
+	.55 (Australia) \n209.9.211.110 (Hong Kong SAR) \n149.137.40.110 (Singapor
+	e) \n64.211.144.160 (Brazil) \n69.174.57.160 (Canada) \n207.226.132.110 (J
+	apan) \nMeeting ID: 930 2486 0563 \nPasscode: 535948 \n\n \n\n
+DTEND:20221206T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20221206T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20221206T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1
+	 1 1 1 1\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4
+	 3 2 4\;}\n@font-face\n	{font-family:"\\@DengXian"\;\n	panose-1:2 1 6 0 3 
+	1 1 1 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.Ms
+	oNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans
+	-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:b
+	lue\;\n	text-decoration:underline\;}\nspan.EmailStyle19\n	{mso-style-type:
+	personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font
+	-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.
+	0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n-->
+	</style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1
+	026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=
+	"edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif
+	]--></head><body link=blue vlink=purple style='word-wrap:break-word'><div 
+	class=WordSection1><p style='margin:0cm'><span lang=EN-GB>After much stari
+	ng at calendar slots\, this looks suitable for a Veraison public meeting.&
+	nbsp\; If it&#8217\;s not going to work out\, please let me know asap as I
+	&#8217\;ll post this info in the Zulip &amp\; Community repo later.<o:p></
+	o:p></span></p><p style='margin:0cm'><span lang=EN-GB>Simon<o:p></o:p></sp
+	an></p><p style='margin:0cm'><o:p>&nbsp\;</o:p></p><p style='margin:0cm'><
+	o:p>&nbsp\;</o:p></p><p style='margin:0cm'>Join Zoom Meeting <br><a href="
+	https://armltd.zoom.us/j/93024860563?pwd=dVpVcFRtSVFmV29HV3dHWENrZk5WQT09"
+	>https://armltd.zoom.us/j/93024860563?pwd=dVpVcFRtSVFmV29HV3dHWENrZk5WQT09
+	</a> <o:p></o:p></p><p style='margin:0cm'>Meeting ID: 930 2486 0563 <br>Pa
+	sscode: 535948 <br>One tap mobile <br>+442034815240\,\,93024860563#\,\,\,\
+	,*535948# United Kingdom <o:p></o:p></p><p style='margin:0cm'>Dial by your
+	 location <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +44 203 48
+	1 5240 United Kingdom <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
+	; +1 646 518 9805 US (New York) <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\;&nbsp\; +1 346 248 7799 US (Houston) <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\; +1 408 638 0968 US (San Jose) <br>&nbsp\;&nbsp\;&nbsp
+	\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +91 224 879 8012 India <br>&nbsp\;&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +91 406 480 2722 India <br>&nbsp\;&nbsp\
+	;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +91 806 480 2722 India <br>&nbsp\;&nb
+	sp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +91 116 480 2722 India <br>&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +852 5803 3730 Hong Kong SAR <b
+	r>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +46 8 4468 2488 Sweden
+	 <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +47 2396 0588 Norwa
+	y <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +972 3 978 6688 Is
+	rael <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +353 1 536 9320
+	 Ireland <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +36 1 408 8
+	456 Hungary <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +49 30 5
+	679 5800 Germany <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +33
+	 1 7037 2246 France <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; 
+	+358 3 4109 2129 Finland <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\; +45 32 70 12 06 Denmark <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
+	;&nbsp\; +1 438 809 7799 Canada <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\;&nbsp\; +82 2 6022 2322 Korea\, Republic of <br>&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;&nbsp\; +65 3158 7288 Singapore <br>&nbsp\;&nbsp\;&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +27 87 550 3946 South Africa <br>&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +32 1579 5132 Belgium <br>&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +48 22 307 3488 Poland <br>&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +386 1600 3102 Slovenia <br>
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +60 3 3099 2229 Malaysia
+	 <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +886 (2) 7741 7473 
+	Taiwan <br>Meeting ID: 930 2486 0563 <br>Passcode: 535948 <br>Find your lo
+	cal number: <a href="https://armltd.zoom.us/u/ab2nEiLHxu">https://armltd.z
+	oom.us/u/ab2nEiLHxu</a> <o:p></o:p></p><p style='margin:0cm'>Join by SIP <
+	br><a href="mailto:93024860563@zoomcrc.com">93024860563@zoomcrc.com</a> <o
+	:p></o:p></p><p style='margin:0cm'>Join by H.323 <br>162.255.37.11 (US Wes
+	t) <br>162.255.36.11 (US East) <br>115.114.131.7 (India Mumbai) <br>115.11
+	4.115.7 (India Hyderabad) <br>213.19.144.110 (Amsterdam Netherlands) <br>2
+	13.244.140.110 (Germany) <br>103.122.166.55 (Australia) <br>209.9.211.110 
+	(Hong Kong SAR) <br>149.137.40.110 (Singapore) <br>64.211.144.160 (Brazil)
+	 <br>69.174.57.160 (Canada) <br>207.226.132.110 (Japan) <br>Meeting ID: 93
+	0 2486 0563 <br>Passcode: 535948 <o:p></o:p></p><p class=MsoNormal><o:p>&n
+	bsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20230103T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20230103T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20230103T160000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20230321T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20230321T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20230321T160000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20230425T160000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20230425T150000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20230425T150000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20230725T160000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20230725T150000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20230725T150000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20230919T160000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20230919T150000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20230919T150000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20231017T160000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20231017T150000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20231017T150000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20231114T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20231114T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20231114T160000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20231128T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20231128T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20231128T160000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20231226T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20231226T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20231226T160000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20250121T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20250121T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20250121T160000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20250429T161827Z
+DTEND:20250218T170000Z
+DTSTAMP:20250429T161827Z
+DTSTART:20250218T160000Z
+LAST-MODIFIED:20250429T161827Z
+PRIORITY:5
+RECURRENCE-ID:20250218T160000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000C0533C95CBE9D601000000000000000
+	010000000EFB9ED2271731B4DAA554537EA5BF31D
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
