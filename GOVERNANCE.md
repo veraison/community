@@ -26,7 +26,7 @@ They further pledge the following:
 
 ### Veraison Org Maintainers
 
-The [Veraison Org maintainers](./MAINTAINERS.toml) are responsible for:
+The [Veraison Org maintainers][team-org-maintainers] are responsible for:
 
 * Maintaining the mission, vision, values, and scope of the project
 * Refining the governance and charter as needed
@@ -50,7 +50,7 @@ Changes to org maintainers use the following:
   * The voting period will be open for a minimum of three business days and will remain open until a super-majority of project maintainers has voted
   * Only current org maintainers are eligible to vote via casting a single vote each via a -1/+1 comment on the nomination issue or approving in GitHub.
   * Once a super-majority has been reached the maintainer elect must complete [onboarding](#onboarding-a-new-maintainer) prior to becoming an official Veraison maintainer.
-  * Once the maintainer onboarding has been completed a pull request is made on the repo adding the new maintainer to the [MAINTAINERS](MAINTAINERS.toml) file.
+  * Once the maintainer onboarding has been completed the new maintainer is added to the [veraison-org-maintainers][team-org-maintainers] team.
 * When an org maintainer steps down, they become an emeritus maintainer
 
 ### Sub-Project Maintainers
@@ -58,6 +58,8 @@ Changes to org maintainers use the following:
 Sub-project maintainers are responsible for activities surrounding the development and release of content (e.g., code, specifications, documentation) or the tasks needed to execute their sub-project (e.g., community management) within the designated repository, or repositories associated with the sub-project (e.g., community management).
 Technical decisions for code resides with the sub-project maintainers unless there is a decision related to cross maintainer groups that cannot be resolved by those groups.
 Those cases can be escalated to the org maintainers.
+Maintainers are managed only through [GitHub teams][teams] (e.g. [go-cose-maintainers][team-go-cose-maintainers]).
+Repositories can assign active contributors as individual code owners.
 
 Sub-projects may be responsible for one or many repositories.
 
@@ -121,7 +123,7 @@ Meetings should have a chair, this is a rotating role not restricted to maintain
 
 ## Code of Conduct
 
-[Veraison Contributor Covenant Code of Conduct](https://github.com/veraison/veraison/blob/main/CODE_OF_CONDUCT.md)
+[Veraison Contributor Covenant Code of Conduct](https://github.com/veraison/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Attributions
 
@@ -140,4 +142,7 @@ The following licenses and contributor agreements will be used for Veraison proj
 [majority]:              https://en.wikipedia.org/wiki/Majority
 [simple-majority]:  https://en.wikipedia.org/wiki/Simple_majority
 [super-majority]:   https://en.wikipedia.org/wiki/Supermajority#Two-thirds_vote
+[teams]:                  https://github.com/orgs/veraison/teams
+[team-org-maintainers]:   https://github.com/orgs/veraison/teams/veraison-org-maintainers
+[team-go-cose-maintainers]: https://github.com/orgs/veraison/teams/go-cose-maintainers
 [zulip-chat]:           https://veraison.zulipchat.com
